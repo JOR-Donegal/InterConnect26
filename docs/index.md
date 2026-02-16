@@ -1,7 +1,7 @@
 # Introduction
 
-!!! abstract "Introduction to Stuff"
+!!! abstract "Interconnecting Sites"
 
-This will be the main introduction page
+From previous notes, you know how to configure a LAN, and place a perimeter firewall to give that LAN some security. Most devices we have considered as a perimeter firewall will include SD-WAN. However that term mean something different to almost every vendor!
 
-Edit mkdoc.yml to set the name of this document
+In this last major topic, I want to consider how to interconnect our sites. This will obviously be specific to the island of Ireland, but the same logic and methodologies will apply in most countries.
